@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hi there Weslley messis  👋
+
+ Tenho 22 anos 
+ fazendo transiçao de carreira 
+ 1 ano area 
+ lingaugens:
+ Front: html css javascript React
+ Back: node.js  PhP
+ Moro em japaratinga AL
+
+
+
 
 <!--
-**weslleymessiasmr/weslleymessiasmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
